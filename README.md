@@ -63,7 +63,6 @@ No. The plugin is lightweight and only loads its scripts in the admin when neede
 ## Screenshots
 
 **1. Backend Interface – Drag and Drop UI**  
-![Backend Snapshot](https://raw.githubusercontent.com/vishalpadhariya/cf7-spam-filtering/master/screenshots/backend-snapshot.png)
 
 ---
 
